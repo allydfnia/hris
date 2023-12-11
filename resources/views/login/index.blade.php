@@ -7,12 +7,12 @@
     <h1 class="h3 mb-3 fw-normal">Please sign in</h1>
 
     <div class="form-floating">
-      <input type="email" class="form-control" id="floatingInput" placeholder="name@example.com">
-      <label for="floatingInput">Email address</label>
+      <input type="number" class="form-control rounded-top" name="nik" Placeholder="NIK">
+      <label for="nik">NIK</label>
     </div>
     <div class="form-floating">
-      <input type="password" class="form-control" id="floatingPassword" placeholder="Password">
-      <label for="floatingPassword">Password</label>
+      <input type="text" name="nama" class="form-control" name="nama" Placeholder="Nama">
+      <label for="nama">Nama</label>
     </div>
 
     <div class="form-check text-start my-3">
